@@ -1,2 +1,2 @@
 # linear_algebra
-My homeworks for linear algebra
+Linear algebra lessons
